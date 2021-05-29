@@ -1,2 +1,2 @@
 - hi im reachify
-- contact me on discord yea... 
+- developer for lua, python and maybe C# yea
