@@ -1,2 +1,2 @@
 - hi im reachify
-- developer for lua, python, c#, html, css, js yea
+- i cant develop
